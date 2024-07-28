@@ -7,8 +7,6 @@
 			"files": [
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset",
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Assets/Enemies/Goblin/SKM_Goblin.uasset",
-				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/ABP_Enemy.uasset",
-				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/BP_Goblin_Spear.uasset",
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/Goblin_Spear/BP_Goblin_Spear.uasset",
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/ABP_Enemy.uasset",
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/BP_Enemy.uasset",
@@ -101,6 +99,17 @@
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/Goblin_Spear/ABP_Goblin_Spear.uasset",
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/Goblin_Slingshot/BP_Goblin_Slingshot.uasset",
 				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/Goblin_Slingshot/ABP_Goblin_Slingshot.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Maps/StartupMap.umap",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Input/InputActions/IA_Move.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Aura/BP_AuraPlayerController.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/GameMode/BP_GameMode.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Input/IMC_AuraContext.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/__ExternalActors__/Maps/Untitled/D/YG/XTAMZCSP8JPNG83FTQ7ID5.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/__ExternalActors__/Maps/Untitled/4/V6/QCNXR4WWY4NJET6YZ82BZZ.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/__ExternalActors__/Maps/Untitled/B/3D/JU5X5H4PB9RV06CM1XJZUO.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Interaction/INT_EnemyInterface.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/ABP_Enemy.uasset",
+				"H:/UnrealGAS/AuraWorkalongUE5.4.3/GameplayAbilitySystem_Aura/GAS_Workalong/Content/Blueprints/Character/Enemies/BP_Goblin_Spear.uasset",
 				"H:/BeatDownUE/BeatDownUE/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
