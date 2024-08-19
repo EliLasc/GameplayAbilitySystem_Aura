@@ -1,0 +1,19 @@
+{
+	"ConfigurationsAndPlatforms": [
+		{
+			"Configuration": "DebugGame",
+			"Platform": "Win64",
+			"Target": "Program"
+		},
+		{
+			"Configuration": "Development",
+			"Platform": "Win64",
+			"Target": "Program"
+		},
+		{
+			"Configuration": "Shipping",
+			"Platform": "Win64",
+			"Target": "Program"
+		}
+	]
+}
