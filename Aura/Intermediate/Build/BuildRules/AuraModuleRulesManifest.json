@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Elijah\\GASProject\\GameplayAbilitySystem_Aura\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Elijah\\GASProject\\GameplayAbilitySystem_Aura\\Aura\\Source\\Aura.Target.cs",
+		"C:\\Elijah\\GASProject\\GameplayAbilitySystem_Aura\\Aura\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
